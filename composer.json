@@ -1,0 +1,5 @@
+{
+    "require": {
+        "smsgatewayme/client": "^0.0.1"
+    }
+}
